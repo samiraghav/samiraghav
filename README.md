@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiraghav&label=Profile%20views&color=0e75b6&style=flat" alt="samiraghav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiraghav" alt="samiraghav" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aghavsamir" target="blank"><img src="https://img.shields.io/twitter/follow/aghavsamir?logo=twitter&style=for-the-badge" alt="aghavsamir" /></a> </p>
 
 - 🔭 I’m currently working on **popular-anime project**
