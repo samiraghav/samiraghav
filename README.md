@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
--  My portfolio is live at - <a href="https://samiraghavportfolio.netlify.app/" alt="portfolio" /> </a>
+-  My portfolio is live at - <a href="https://samiraghavportfolio.netlify.app/" alt="portfolio" target="_blank"> </a>
   
 
 <br/>  
