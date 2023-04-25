@@ -73,7 +73,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://samiraghavportfolio.netlify.app/" target="_blank">
+<a href="https://samiraghav.github.io/portfolio-ts-react/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-.-lightgrey &style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/samiraghav" target="_blank">
