@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on popular-anime project.  
   
 
-- 🌱 I’m currently learning Node,js  
+- 🌱 I’m currently learning Golang and PHP. 
   
 
 - ❓ Ask me about anything related to front end development and related technologies  
