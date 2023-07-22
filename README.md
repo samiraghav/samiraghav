@@ -2,25 +2,27 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-### <div align="center">I'm Samir, A passionate frontend developer from India🚀</div>  
+ 
 # Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Samir Aghav
-### Frontend Web Developer 👨‍💻
+### Frontend Web Developer 👨‍💻 🚀
 
 I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React etc. Passionate about creating visually appealing and user-friendly websites and applications. Always eager to learn new technologies and improve my skills. Check out my GitHub profile for examples of my work and feel free to reach out if you have any questions or projects you'd like to discuss. I am able to design and develop responsive and interactive user interfaces that engage and delight users. My strong attention to detail, paired with my ability to think creatively and critically, allows me to take projects from concept to launch, ensuring that they are delivered on time and to a high standard. 
 
 <br>
-  
 
-- 🔭 I’m currently working on code-ding project.  
+- 🔭 I’m currently working on code-ding project.
   
-
+- 👯 I’m looking to collaborate on exciting Projects
+  
 - 🌱 I’m currently learning Golang and PHP. 
   
+- ❓ Ask me about anything related to front end development and related technologies
 
-- ❓ Ask me about anything related to front end development and related technologies  
+- 🌱 I’m currently learning React.js, Redux.js and Node.js
+
+- 📫 How to reach me: samiraghav24@gmail.com
   
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I use tabs over spaces  
 
