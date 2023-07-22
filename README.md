@@ -84,15 +84,8 @@
 For samples of my work, visit my GitHub profile. If you have any inquiries or projects you'd want to discuss,<br> 
 don't hesitate to get in touch. If there is anything else I can do to assist you, kindly let me know!<br>
 FEEL FREE TO CONTACT ME ✌️
-<!-- Links -->
 
-[![github](https://skillicons.dev/icons?i=github)](https://twitter.com/PrabhatSar10)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhatkumarsaraswat/)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saraswat__prabhat)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
 <br>
-<br>
-
 
 ## Connect with me  
 <div align="center">
@@ -134,8 +127,6 @@ FEEL FREE TO CONTACT ME ✌️
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
