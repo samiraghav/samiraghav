@@ -18,8 +18,6 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
   
 - ❓ Ask me about anything related to front end development and related technologies
 
-- 🌱 I’m currently learning React.js, Redux.js and Node.js
-
 - 📫 How to reach me: samiraghav24@gmail.com
   
 - 😄 Pronouns: He/Him
