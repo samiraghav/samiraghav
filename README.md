@@ -6,6 +6,8 @@
 # Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Samir Aghav
 ### Frontend Web Developer 👨‍💻 🚀
 
+Passionate web developer with a strong foundation in HTML, CSS, JavaScript, React Js and PHP. I also have knowledge of python, C, C++, Golang, MySQL. Excited to contribute to innovative projects and enhance user experiences through intuitive design and clean code. A quick learner, adept at collaborating with teams and eager to continuously grow and adapt to new technologies. 
+
 I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React etc. Passionate about creating visually appealing and user-friendly websites and applications. Always eager to learn new technologies and improve my skills. Check out my GitHub profile for examples of my work and feel free to reach out if you have any questions or projects you'd like to discuss. I am able to design and develop responsive and interactive user interfaces that engage and delight users. My strong attention to detail, paired with my ability to think creatively and critically, allows me to take projects from concept to launch, ensuring that they are delivered on time and to a high standard. 
 
 <br>
