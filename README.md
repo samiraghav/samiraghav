@@ -12,7 +12,7 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 <br>
 
-- 🔭 I’m currently working on code-ding project.
+- 🔭 I’m currently working as SDE 1 with SportsKeeda
   
 - 👯 I’m looking to collaborate on exciting Projects
   
