@@ -115,7 +115,7 @@ FEEL FREE TO CONTACT ME ✌️
 <a href="https://instagram.com/samir_aghav05" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/aghavsamir" target="_blank">
+<a href="https://twitter.com/SamirAghav" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/samirnik123" target="_blank">
