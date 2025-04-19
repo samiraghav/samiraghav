@@ -18,7 +18,7 @@ I’m always excited to collaborate with teams, innovate, and contribute to proj
   
 - 👯 I’m looking to collaborate on exciting Projects
   
-- 🌱 I’m currently learning Golang and PHP. 
+- 🌱 I have experience with Go, PHP, JavaScript, MySQL, MongoDB, ElasticSearch, Redis, AWS.
   
 - ❓ Ask me about anything related to front end development and related technologies
 
